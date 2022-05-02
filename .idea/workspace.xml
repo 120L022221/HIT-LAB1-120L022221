@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f04cc38a-8c29-4b4b-bde8-e01fe6ea302e" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIT-Lab1-120L022221.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/MagicSquare.java" afterDir="false" />
+    <list default="true" id="f04cc38a-8c29-4b4b-bde8-e01fe6ea302e" name="变更" comment="P1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="28bL5FzE6qD3i86iQOz2r67xILa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,11 +44,14 @@
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12646\Desktop\IDEAWorkspace\HIT-Lab1-120L022221\src" />
+      <recent name="C:\Users\12646\Desktop\IDEAWorkspace\HIT-Lab1-120L022221\src\P1\txt" />
       <recent name="C:\Users\12646\Desktop\IDEAWorkspace\HIT-Lab1-120L022221\src\P1" />
     </key>
   </component>
@@ -73,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651480156398</updated>
-      <workItem from="1651480158300" duration="309000" />
+      <workItem from="1651480158300" duration="1691000" />
     </task>
+    <task id="LOCAL-00001" summary="P1">
+      <created>1651480645049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651480645049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -102,5 +109,29 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P1" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1" />
   </component>
 </project>
